@@ -1,0 +1,12 @@
+{
+  "name": "scaha-games",
+  "version": "1.0.0",
+  "description": "Shows new SCAHA 16U A regular season games",
+  "main": "scaha.js",
+  "scripts": {
+    "start": "node scaha.js"
+  },
+  "dependencies": {
+    "playwright-core": "^1.48.0"
+  }
+}

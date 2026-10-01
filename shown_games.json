@@ -1,0 +1,724 @@
+{
+  "shown": {
+    "149166836": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166836",
+        "date": "2026-10-11",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "Jr. Ducks",
+        "awayScore": "--",
+        "venue": "YorbaLinda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166837": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166837",
+        "date": "2026-11-01",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (1)",
+        "homeScore": "--",
+        "away": "Jr. Ducks",
+        "awayScore": "--",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166838": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166838",
+        "date": "2026-09-20",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Final",
+        "home": "Wave",
+        "homeScore": "3",
+        "away": "Jr. Ducks",
+        "awayScore": "1",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166839": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166839",
+        "date": "2027-01-10",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "Jr. Ducks",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166840": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166840",
+        "date": "2026-10-04",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Surf",
+        "homeScore": "--",
+        "away": "Jr. Ducks",
+        "awayScore": "--",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166841": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166841",
+        "date": "2026-11-22",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "Jr. Ducks",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166842": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166842",
+        "date": "2027-01-24",
+        "time": "08:45:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "Jr. Ducks",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166843": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166843",
+        "date": "2026-12-20",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "Avalanche",
+        "awayScore": "--",
+        "venue": "YorbaLinda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166844": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166844",
+        "date": "2026-10-11",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (1)",
+        "homeScore": "--",
+        "away": "Avalanche",
+        "awayScore": "--",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166845": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166845",
+        "date": "2026-11-15",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (1)",
+        "homeScore": "--",
+        "away": "Avalanche",
+        "awayScore": "--",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166846": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166846",
+        "date": "2027-02-21",
+        "time": "10:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "Avalanche",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166847": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166847",
+        "date": "2026-10-18",
+        "time": "12:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "Avalanche",
+        "awayScore": "--",
+        "venue": "Great Park Ice & Fivepoint Arena",
+        "rink": "2"
+      }
+    },
+    "149166848": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166848",
+        "date": "2026-09-27",
+        "time": "10:20:00",
+        "type": "Game",
+        "status": "StatsComplete",
+        "home": "Surf",
+        "homeScore": "6",
+        "away": "Avalanche",
+        "awayScore": "3",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166849": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166849",
+        "date": "2026-12-06",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Surf",
+        "homeScore": "--",
+        "away": "Avalanche",
+        "awayScore": "--",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166850": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166850",
+        "date": "2026-10-04",
+        "time": "08:40:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "YorbaLinda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166851": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166851",
+        "date": "2027-01-24",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "YorbaLinda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166852": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166852",
+        "date": "2026-12-06",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (1)",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166853": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166853",
+        "date": "2026-10-25",
+        "time": "12:45:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "Anaheim ICE",
+        "rink": "NHL"
+      }
+    },
+    "149166854": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166854",
+        "date": "2027-01-31",
+        "time": "10:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Surf",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166855": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166855",
+        "date": "2026-11-01",
+        "time": "10:30:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166856": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166856",
+        "date": "2026-12-13",
+        "time": "10:30:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "Wave",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166857": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166857",
+        "date": "2026-10-25",
+        "time": "13:40:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "YorbaLinda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166858": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166858",
+        "date": "2026-12-20",
+        "time": "10:30:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (1)",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166859": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166859",
+        "date": "2027-01-24",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (1)",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166860": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166860",
+        "date": "2026-10-11",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166861": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166861",
+        "date": "2026-11-22",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166862": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166862",
+        "date": "2026-11-15",
+        "time": "12:45:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "Anaheim ICE",
+        "rink": "NHL"
+      }
+    },
+    "149166863": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166863",
+        "date": "2027-02-07",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "Great Park Ice & Fivepoint Arena",
+        "rink": "1"
+      }
+    },
+    "149166864": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166864",
+        "date": "2027-01-10",
+        "time": "08:45:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "Surf",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166865": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166865",
+        "date": "2026-11-22",
+        "time": "15:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "The Rinks - Yorba Linda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166866": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166866",
+        "date": "2027-01-10",
+        "time": "10:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "OC Hockey (2)",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "YorbaLinda ICE",
+        "rink": "MAIN"
+      }
+    },
+    "149166867": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166867",
+        "date": "2026-10-18",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166868": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166868",
+        "date": "2027-02-07",
+        "time": "10:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166869": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166869",
+        "date": "2026-12-13",
+        "time": "12:20:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "Great Park Ice & Fivepoint Arena",
+        "rink": "2"
+      }
+    },
+    "149166870": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166870",
+        "date": "2027-02-21",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "Anaheim ICE",
+        "rink": "NHL"
+      }
+    },
+    "149166871": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166871",
+        "date": "2026-11-08",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Surf",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166872": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166872",
+        "date": "2027-01-31",
+        "time": "10:30:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "OC Hockey (1)",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166873": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166873",
+        "date": "2026-09-27",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "StatsComplete",
+        "home": "OC Hockey (1)",
+        "homeScore": "4",
+        "away": "OC Hockey (2)",
+        "awayScore": "3",
+        "venue": "KHS Ice Arena",
+        "rink": "A"
+      }
+    },
+    "149166874": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166874",
+        "date": "2026-11-08",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Wave",
+        "homeScore": "--",
+        "away": "OC Hockey (2)",
+        "awayScore": "--",
+        "venue": "East West Ice",
+        "rink": "NHL"
+      }
+    },
+    "149166875": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166875",
+        "date": "2026-12-06",
+        "time": "07:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "OC Hockey (2)",
+        "awayScore": "--",
+        "venue": "Anaheim ICE",
+        "rink": "NHL"
+      }
+    },
+    "149166876": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166876",
+        "date": "2027-01-31",
+        "time": "12:15:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Jr. Ducks",
+        "homeScore": "--",
+        "away": "OC Hockey (2)",
+        "awayScore": "--",
+        "venue": "Anaheim ICE",
+        "rink": "NHL"
+      }
+    },
+    "149166877": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166877",
+        "date": "2026-12-13",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Surf",
+        "homeScore": "--",
+        "away": "OC Hockey (2)",
+        "awayScore": "--",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166878": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166878",
+        "date": "2027-02-21",
+        "time": "12:00:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Surf",
+        "homeScore": "--",
+        "away": "OC Hockey (2)",
+        "awayScore": "--",
+        "venue": "Ice Realm",
+        "rink": "MAIN"
+      }
+    },
+    "149166879": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166879",
+        "date": "2026-09-20",
+        "time": "08:45:00",
+        "type": "Game",
+        "status": "Final",
+        "home": "Avalanche",
+        "homeScore": "3",
+        "away": "OC Hockey (2)",
+        "awayScore": "8",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    },
+    "149166880": {
+      "firstShown": "2026-10-01T22:44:51.995Z",
+      "game": {
+        "gameNumber": "149166880",
+        "date": "2027-02-07",
+        "time": "10:30:00",
+        "type": "Game",
+        "status": "Scheduled",
+        "home": "Avalanche",
+        "homeScore": "--",
+        "away": "OC Hockey (2)",
+        "awayScore": "--",
+        "venue": "Lake Forest IP",
+        "rink": "MAIN"
+      }
+    }
+  }
+}
